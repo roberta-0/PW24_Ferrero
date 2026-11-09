@@ -1,0 +1,193 @@
+date,product,demand
+2022-01-01,Ferrero Rocher,4833
+2022-02-01,Ferrero Rocher,6672
+2022-03-01,Ferrero Rocher,4658
+2022-04-01,Ferrero Rocher,4317
+2022-05-01,Ferrero Rocher,4612
+2022-06-01,Ferrero Rocher,3497
+2022-07-01,Ferrero Rocher,5112
+2022-08-01,Ferrero Rocher,4596
+2022-09-01,Ferrero Rocher,4899
+2022-10-01,Ferrero Rocher,9245
+2022-11-01,Ferrero Rocher,11086
+2022-12-01,Ferrero Rocher,9093
+2023-01-01,Ferrero Rocher,4619
+2023-02-01,Ferrero Rocher,5134
+2023-03-01,Ferrero Rocher,4807
+2023-04-01,Ferrero Rocher,5079
+2023-05-01,Ferrero Rocher,4002
+2023-06-01,Ferrero Rocher,4202
+2023-07-01,Ferrero Rocher,3962
+2023-08-01,Ferrero Rocher,4815
+2023-09-01,Ferrero Rocher,5596
+2023-10-01,Ferrero Rocher,8154
+2023-11-01,Ferrero Rocher,12809
+2023-12-01,Ferrero Rocher,11063
+2024-01-01,Ferrero Rocher,5508
+2024-02-01,Ferrero Rocher,5569
+2024-03-01,Ferrero Rocher,4932
+2024-04-01,Ferrero Rocher,5137
+2024-05-01,Ferrero Rocher,4129
+2024-06-01,Ferrero Rocher,4876
+2024-07-01,Ferrero Rocher,5152
+2024-08-01,Ferrero Rocher,4567
+2024-09-01,Ferrero Rocher,6030
+2024-10-01,Ferrero Rocher,8284
+2024-11-01,Ferrero Rocher,11707
+2024-12-01,Ferrero Rocher,11234
+2025-01-01,Ferrero Rocher,7139
+2025-02-01,Ferrero Rocher,5066
+2025-03-01,Ferrero Rocher,4888
+2025-04-01,Ferrero Rocher,4705
+2025-05-01,Ferrero Rocher,5147
+2025-06-01,Ferrero Rocher,4640
+2025-07-01,Ferrero Rocher,4453
+2025-08-01,Ferrero Rocher,5195
+2025-09-01,Ferrero Rocher,5626
+2025-10-01,Ferrero Rocher,7888
+2025-11-01,Ferrero Rocher,11334
+2025-12-01,Ferrero Rocher,10407
+2022-01-01,Kinder Cioccolato,8170
+2022-02-01,Kinder Cioccolato,8480
+2022-03-01,Kinder Cioccolato,7637
+2022-04-01,Kinder Cioccolato,7910
+2022-05-01,Kinder Cioccolato,6769
+2022-06-01,Kinder Cioccolato,7048
+2022-07-01,Kinder Cioccolato,6850
+2022-08-01,Kinder Cioccolato,8820
+2022-09-01,Kinder Cioccolato,7614
+2022-10-01,Kinder Cioccolato,7984
+2022-11-01,Kinder Cioccolato,7837
+2022-12-01,Kinder Cioccolato,8290
+2023-01-01,Kinder Cioccolato,8150
+2023-02-01,Kinder Cioccolato,10288
+2023-03-01,Kinder Cioccolato,9355
+2023-04-01,Kinder Cioccolato,8919
+2023-05-01,Kinder Cioccolato,9078
+2023-06-01,Kinder Cioccolato,7113
+2023-07-01,Kinder Cioccolato,8455
+2023-08-01,Kinder Cioccolato,9156
+2023-09-01,Kinder Cioccolato,7839
+2023-10-01,Kinder Cioccolato,9366
+2023-11-01,Kinder Cioccolato,9959
+2023-12-01,Kinder Cioccolato,11608
+2024-01-01,Kinder Cioccolato,8679
+2024-02-01,Kinder Cioccolato,9916
+2024-03-01,Kinder Cioccolato,9100
+2024-04-01,Kinder Cioccolato,8629
+2024-05-01,Kinder Cioccolato,7302
+2024-06-01,Kinder Cioccolato,9630
+2024-07-01,Kinder Cioccolato,8962
+2024-08-01,Kinder Cioccolato,8685
+2024-09-01,Kinder Cioccolato,9226
+2024-10-01,Kinder Cioccolato,9311
+2024-11-01,Kinder Cioccolato,10104
+2024-12-01,Kinder Cioccolato,12195
+2025-01-01,Kinder Cioccolato,11203
+2025-02-01,Kinder Cioccolato,9838
+2025-03-01,Kinder Cioccolato,11229
+2025-04-01,Kinder Cioccolato,9702
+2025-05-01,Kinder Cioccolato,8533
+2025-06-01,Kinder Cioccolato,7973
+2025-07-01,Kinder Cioccolato,8922
+2025-08-01,Kinder Cioccolato,9214
+2025-09-01,Kinder Cioccolato,9939
+2025-10-01,Kinder Cioccolato,10865
+2025-11-01,Kinder Cioccolato,10943
+2025-12-01,Kinder Cioccolato,10102
+2022-01-01,Kinder Happy Hippo,3893
+2022-02-01,Kinder Happy Hippo,3660
+2022-03-01,Kinder Happy Hippo,3880
+2022-04-01,Kinder Happy Hippo,3097
+2022-05-01,Kinder Happy Hippo,3279
+2022-06-01,Kinder Happy Hippo,1849
+2022-07-01,Kinder Happy Hippo,5193
+2022-08-01,Kinder Happy Hippo,2997
+2022-09-01,Kinder Happy Hippo,4600
+2022-10-01,Kinder Happy Hippo,4674
+2022-11-01,Kinder Happy Hippo,4675
+2022-12-01,Kinder Happy Hippo,4705
+2023-01-01,Kinder Happy Hippo,2382
+2023-02-01,Kinder Happy Hippo,3222
+2023-03-01,Kinder Happy Hippo,2892
+2023-04-01,Kinder Happy Hippo,3364
+2023-05-01,Kinder Happy Hippo,3795
+2023-06-01,Kinder Happy Hippo,2628
+2023-07-01,Kinder Happy Hippo,3593
+2023-08-01,Kinder Happy Hippo,4505
+2023-09-01,Kinder Happy Hippo,4554
+2023-10-01,Kinder Happy Hippo,3831
+2023-11-01,Kinder Happy Hippo,3557
+2023-12-01,Kinder Happy Hippo,3804
+2024-01-01,Kinder Happy Hippo,2266
+2024-02-01,Kinder Happy Hippo,4542
+2024-03-01,Kinder Happy Hippo,2530
+2024-04-01,Kinder Happy Hippo,2781
+2024-05-01,Kinder Happy Hippo,3664
+2024-06-01,Kinder Happy Hippo,2640
+2024-07-01,Kinder Happy Hippo,3694
+2024-08-01,Kinder Happy Hippo,3214
+2024-09-01,Kinder Happy Hippo,3618
+2024-10-01,Kinder Happy Hippo,3410
+2024-11-01,Kinder Happy Hippo,5425
+2024-12-01,Kinder Happy Hippo,6217
+2025-01-01,Kinder Happy Hippo,5154
+2025-02-01,Kinder Happy Hippo,2749
+2025-03-01,Kinder Happy Hippo,2980
+2025-04-01,Kinder Happy Hippo,5248
+2025-05-01,Kinder Happy Hippo,2974
+2025-06-01,Kinder Happy Hippo,3954
+2025-07-01,Kinder Happy Hippo,3731
+2025-08-01,Kinder Happy Hippo,2765
+2025-09-01,Kinder Happy Hippo,4978
+2025-10-01,Kinder Happy Hippo,5138
+2025-11-01,Kinder Happy Hippo,6163
+2025-12-01,Kinder Happy Hippo,4618
+2022-01-01,Nutella,12345
+2022-02-01,Nutella,12774
+2022-03-01,Nutella,11283
+2022-04-01,Nutella,11663
+2022-05-01,Nutella,11441
+2022-06-01,Nutella,12398
+2022-07-01,Nutella,11342
+2022-08-01,Nutella,12408
+2022-09-01,Nutella,12588
+2022-10-01,Nutella,13386
+2022-11-01,Nutella,12631
+2022-12-01,Nutella,12432
+2023-01-01,Nutella,13046
+2023-02-01,Nutella,11713
+2023-03-01,Nutella,11521
+2023-04-01,Nutella,11205
+2023-05-01,Nutella,11297
+2023-06-01,Nutella,11703
+2023-07-01,Nutella,11564
+2023-08-01,Nutella,11558
+2023-09-01,Nutella,12406
+2023-10-01,Nutella,12680
+2023-11-01,Nutella,11828
+2023-12-01,Nutella,13425
+2024-01-01,Nutella,13595
+2024-02-01,Nutella,12731
+2024-03-01,Nutella,11893
+2024-04-01,Nutella,11238
+2024-05-01,Nutella,10643
+2024-06-01,Nutella,11453
+2024-07-01,Nutella,10866
+2024-08-01,Nutella,11485
+2024-09-01,Nutella,12603
+2024-10-01,Nutella,13494
+2024-11-01,Nutella,12820
+2024-12-01,Nutella,12440
+2025-01-01,Nutella,12755
+2025-02-01,Nutella,12105
+2025-03-01,Nutella,11188
+2025-04-01,Nutella,12230
+2025-05-01,Nutella,12145
+2025-06-01,Nutella,11882
+2025-07-01,Nutella,13367
+2025-08-01,Nutella,13030
+2025-09-01,Nutella,12640
+2025-10-01,Nutella,13408
+2025-11-01,Nutella,12539
+2025-12-01,Nutella,14427
