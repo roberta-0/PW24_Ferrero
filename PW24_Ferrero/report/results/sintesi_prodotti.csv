@@ -1,0 +1,5 @@
+Prodotto,Domanda media,Dev. std,CV (%),Metodo migliore,MAE,RMSE,MAPE (%)
+Nutella,12242.0,823.0,6.7,Holt-Winters additivo,649.1,950.4,4.95
+Kinder Cioccolato,9019.0,1268.0,14.1,Smorzamento esponenziale,910.5,1083.3,9.78
+Ferrero Rocher,6260.0,2497.0,39.9,Naive stagionale,599.2,719.9,9.91
+Kinder Happy Hippo,3814.0,1020.0,26.8,Regressione lineare,1010.3,1145.9,24.6

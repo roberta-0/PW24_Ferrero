@@ -1,0 +1,5 @@
+Prodotto,Domanda media prevista,Scorta ciclica,Scorta di sicurezza,Scorta anticipata,Scorta pipeline,Scorta totale,Copertura (mesi),Metodo
+Nutella,13366.0,6683.0,2211.0,3479.0,26732.0,39105.0,2.9,Holt-Winters additivo
+Kinder Cioccolato,10149.0,5075.0,2520.0,0.0,20299.0,27893.0,2.7,Smorzamento esponenziale
+Ferrero Rocher,6374.0,3187.0,1675.0,11272.0,12748.0,28882.0,4.5,Naive stagionale
+Kinder Happy Hippo,4354.0,2177.0,2665.0,324.0,8709.0,13876.0,3.2,Regressione lineare

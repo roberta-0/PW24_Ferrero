@@ -1,0 +1,5 @@
+name,category,unit,base_demand,trend_rate,seasonal_amplitude,seasonal_peak_month,noise_std,promotion_probability,promotion_amplitude,description,festive_profile
+Nutella,Crema spalmabile alla nocciola,cartoni/mese,12000.0,0.001,0.05,11,0.05,0.0,0.0,"Domanda relativamente stabile, variabilita' casuale bassa, trend molto limitato e stagionalita' debole.",
+Kinder Cioccolato,Snack di cioccolato al latte,cartoni/mese,8000.0,0.005,0.12,12,0.08,0.06,0.12,"Domanda moderatamente stabile con trend positivo moderato, variabilita' casuale moderata e stagionalita' debole/moderata (calo estivo tipico del cioccolato).",
+Ferrero Rocher,Praline di cioccolato (pralineria da regalo),cartoni/mese,5000.0,0.003,0.18,12,0.1,0.0,0.0,"Stagionalita' forte con picchi rilevanti nel periodo natalizio/festivo, variabilita' moderata e trend di lungo periodo moderato.",10:0.45;11:1.05;12:0.75
+Kinder Happy Hippo,Snack wafer ripieno,cartoni/mese,3000.0,0.006,0.12,12,0.18,0.2,0.45,"Domanda piu' variabile, trend positivo moderato, picchi promozionali casuali, stagionalita' moderata e rumore superiore a Nutella e Kinder Cioccolato.",
